@@ -14,12 +14,14 @@ minimal, clean, and fast — no bloated desktop environment nonsense.
 ---
 
 ## 📂 structure
+```
 ~/i3-wm-dotfiles/
 ├── i3 (i3 window manager config)
 ├── picom.conf (picom compositor config for transparency and rounded windows) 
 ├── config.ini (polybar config)
 ├── config.rasi (rofi theme/config)
 └── kitty.conf (kitty terminal config)
+```
 
 ## 🔨 needed packages
 ```
