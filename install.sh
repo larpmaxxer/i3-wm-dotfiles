@@ -1,9 +1,11 @@
 #!/bin/bash
 
 echo installing packages...
+echo
 sudo pacman -S --needed git fish kitty i3 polybar feh rofi picom
 
 echo changing shell to fish
+echo
 chsh -s /usr/bin/fish
 
 # create config folders
