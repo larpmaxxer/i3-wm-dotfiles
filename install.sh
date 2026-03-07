@@ -2,7 +2,7 @@
 
 echo installing packages...
 echo
-sudo pacman -S --needed git fish kitty i3 polybar feh rofi picom
+sudo pacman -S --needed git fish kitty i3 polybar feh rofi picom autotiling
 
 echo changing shell to fish
 echo
